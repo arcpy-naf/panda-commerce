@@ -14,7 +14,7 @@
     background-image: linear-gradient(to bottom, #FF589B 0%, #ff136F 100%);
     color: #fff;
     border: none;
-    border-radius: : 8px;
+    border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;   
 }
@@ -44,4 +44,13 @@
 .card-footer{
     background-color: white;
     border-top: none;
+}
+#subscribe{
+    height:300px;
+}
+#subscribe h6{
+    color:gray;
+}
+footer{
+    text-align:center;
 }
